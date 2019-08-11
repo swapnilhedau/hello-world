@@ -1,6 +1,6 @@
 # hello-word
 Getting started
 
-Hellow world, getting started with github.
+Hello world, getting started with github.
 
 added CI with circleci
